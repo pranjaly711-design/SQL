@@ -29,35 +29,46 @@ Rating
 Duration
 Listed In (Genre)
 Description
+
 🔍 Analysis Performed
+
 ✅ Data Exploration
 Verified successful dataset import.
 Counted total records available in the dataset.
+
 ✅ Data Filtering
 Retrieved titles released after 2020.
 Filtered content based on specific conditions.
+
 ✅ Data Sorting
 Sorted content using release year.
 Displayed latest released titles.
+
 ✅ Data Grouping
 Compared Movies and TV Shows.
 Grouped records by country.
 Grouped records by director.
+
 ✅ Aggregate Analysis
 Calculated total records.
 Calculated average release year.
 Generated summary statistics.
+
 ✅ Subquery Analysis
 Identified titles released after the average release year.
+
 ✅ View Creation
 Created a dedicated view for movie analysis.
 Simplified querying movie-specific records.
+
 ✅ Join Operations
 Demonstrated INNER JOIN.
 Demonstrated LEFT JOIN.
 Demonstrated RIGHT JOIN.
+
 ✅ Query Optimization
 Implemented indexing techniques to improve query performance.
+
 📊 Key Findings
 Total dataset records were successfully imported and analyzed.
 Both Movies and TV Shows are included in the dataset.
@@ -65,6 +76,7 @@ Several records contain unknown director information.
 Director-wise analysis revealed the most frequent directors in the dataset.
 Country-wise analysis highlighted regions contributing most content.
 Release year analysis showed trends in content production over time.
+
 📸 Screenshots Included
 Dataset Import Verification
 Total Content Count
